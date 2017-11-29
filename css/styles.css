@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+    color: gold;
+        
+}
+
+ #rollType{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 1em;
+    padding: 15px;
+    letter-spacing: 2px;
+    width: 15;
+ }
+ 
+ 
